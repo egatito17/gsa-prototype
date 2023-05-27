@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Tracker: clean up GMC (#8003)
