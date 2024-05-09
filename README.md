@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
